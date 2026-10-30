@@ -1,0 +1,11 @@
+{
+  "name": "Flora Pulse AI",
+  "description": "AI-powered plant disease detection, deep diagnosis, healthy plant identification, and botanical cure protocols.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
+
